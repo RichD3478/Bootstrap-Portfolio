@@ -2,7 +2,7 @@
 
 Live Link
 
-https://.github.io/Bootstrap-Portfolio/
+https://richd3478.github.io/Bootstrap-Portfolio/
 
 Requirements
 
